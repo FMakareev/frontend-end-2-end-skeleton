@@ -1,0 +1,5 @@
+node_modules
+.idea/
+tests_output/
+*.png
+*.log
